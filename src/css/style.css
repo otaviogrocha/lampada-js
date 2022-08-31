@@ -1,0 +1,24 @@
+
+header, main{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+header{
+    margin-top: 100px;
+    
+}
+
+
+button{
+    width: 100px;
+    margin: 10px;
+    height: 30px;
+}
+
