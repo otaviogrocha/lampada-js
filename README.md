@@ -1,2 +1,3 @@
 # lampada-js
-Prática de JavaScript com manipulação de classes e eventos.
+
+- Prática de JavaScript com manipulação de classes e eventos.
